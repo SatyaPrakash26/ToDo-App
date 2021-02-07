@@ -4,7 +4,9 @@
 
 1. Current Date is being displayed 📅.
 2. Current Time is being displayed ⌚.
-3. The items will be there in the list after you reload the page whenever you want.
+3. Items can be added.
+4. Items can be deleted once it is finished.
+5. The items will be there in the list after you reload the page whenever you want.
 
 ## A Glimpse of how it looks📱💻 and works:
 
